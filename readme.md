@@ -10,7 +10,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Deployed Link:
-    [Paytm Clone](https://paytm-clone-tau.vercel.app/)
+    [Shopify Clone](https://shopify-clone-a.netlify.app/)
 
 
 
