@@ -33,11 +33,19 @@
 
  * ## Overview
 
-![alt text](/Shopify%20Clone.png)
+![alt text](./images/Shopify%20Clone.png)
 
 
 * ## Reach Me Out
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-namdev-3b16151b6/)
 
-![[Instagram](https://www.instagram.com/thetangledguy/)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+    [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@thetangledguy)
+
+    **[Findcoder](https://www.findcoder.io/u/aryannamdev)**
+
+* ## Reach Me Out
+    If you have any queries, contact me aryanamdev08@gmail.com.
+    
+
 
     
